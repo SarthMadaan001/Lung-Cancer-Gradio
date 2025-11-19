@@ -1,0 +1,11 @@
+# Ignore Google Drive, Colab setup, and Hugging Face cache
+drive/
+.config/
+.gradio/
+hf_repo/
+sample_data/
+misclassified_examples/
+predicted_examples/
+predictions.csv
+*.gsheet
+*.ipynb
