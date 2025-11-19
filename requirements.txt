@@ -3,3 +3,5 @@ torch
 torchvision
 huggingface_hub
 Pillow
+gunicorn
+uvicorn
